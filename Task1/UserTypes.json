@@ -1,0 +1,22 @@
+[{
+		"id": 1,
+		"name": "Пользователь",
+		"allow_edit": false
+	}, {
+		"id": 2,
+		"name": "Администратор",
+		"allow_edit": true
+	}, {
+		"id": 3,
+		"name": "Модератор",
+		"allow_edit": true
+	}, {
+		"id": 4,
+		"name": "Тестировщик",
+		"allow_edit": false
+	}, {
+		"id": 5,
+		"name": "Гость",
+		"allow_edit": false
+	}
+]

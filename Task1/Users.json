@@ -1,0 +1,282 @@
+[
+	{
+		"id": 1,
+		"login": "User1Login",
+		"password": "User1Pass",
+		"name": "Пользователь1",
+		"type_id": 1,
+		"last_visit_date": "2021-01-15T00:00:00"
+	},
+	{
+		"id": 2,
+		"login": "Admin1Login",
+		"password": "Admin1Pass",
+		"name": "Админ1",
+		"type_id": 2,
+		"last_visit_date": "2021-07-11T00:00:00"
+	},
+	{
+		"id": 3,
+		"login": "Mod1Login",
+		"password": "Mod1Pass",
+		"name": "Модератор1",
+		"type_id": 3,
+		"last_visit_date": "2021-05-13T00:00:00"
+	},
+	{
+		"id": 4,
+		"login": "Test1Login",
+		"password": "Test1Pass",
+		"name": "Тест1",
+		"type_id": 4,
+		"last_visit_date": "2021-03-19T00:00:00"
+	},
+	{
+		"id": 5,
+		"login": "Guest1Login",
+		"password": "Guest1Pass",
+		"name": "Гость1",
+		"type_id": 5,
+		"last_visit_date": "2021-01-19T00:00:00"
+	},
+	{
+		"id": 6,
+		"login": "User2Login",
+		"password": "User2Pass",
+		"name": "Пользователь2",
+		"type_id": 1,
+		"last_visit_date": "2021-02-21T00:00:00"
+	},
+	{
+		"id": 7,
+		"login": "Admin2Login",
+		"password": "Admin2Pass",
+		"name": "Админ2",
+		"type_id": 2,
+		"last_visit_date": "2021-02-19T00:00:00"
+	},
+	{
+		"id": 8,
+		"login": "Mod2Login",
+		"password": "Mod2Pass",
+		"name": "Модератор2",
+		"type_id": 3,
+		"last_visit_date": "2021-03-11T00:00:00"
+	},
+	{
+		"id": 9,
+		"login": "Test2Login",
+		"password": "Test2Pass",
+		"name": "Тест2",
+		"type_id": 4,
+		"last_visit_date": "2021-05-13T00:00:00"
+	},
+	{
+		"id": 10,
+		"login": "Guest2Login",
+		"password": "Guest2Pass",
+		"name": "Гость2",
+		"type_id": 5,
+		"last_visit_date": "2021-06-17T00:00:00"
+	},
+	{
+		"id": 11,
+		"login": "User3Login",
+		"password": "User3Pass",
+		"name": "Пользователь3",
+		"type_id": 1,
+		"last_visit_date": "2021-04-20T00:00:00"
+	},
+	{
+		"id": 12,
+		"login": "Admin3Login",
+		"password": "Admin3Pass",
+		"name": "Админ3",
+		"type_id": 2,
+		"last_visit_date": "2021-05-11T00:00:00"
+	},
+	{
+		"id": 13,
+		"login": "Mod3Login",
+		"password": "Mod3Pass",
+		"name": "Модератор3",
+		"type_id": 3,
+		"last_visit_date": "2021-01-18T00:00:00"
+	},
+	{
+		"id": 14,
+		"login": "Test3Login",
+		"password": "Test3Pass",
+		"name": "Тест3",
+		"type_id": 4,
+		"last_visit_date": "2021-02-16T00:00:00"
+	},
+	{
+		"id": 15,
+		"login": "Guest3Login",
+		"password": "Guest3Pass",
+		"name": "Гость3",
+		"type_id": 5,
+		"last_visit_date": "2021-06-27T00:00:00"
+	},
+	{
+		"id": 16,
+		"login": "andr16",
+		"password": "qwerty",
+		"name": "Андрей",
+		"type_id": 1,
+		"last_visit_date": "2021-03-19T00:00:00"
+	},
+	{
+		"id": 17,
+		"login": "serg123",
+		"password": "asdfgh",
+		"name": "Сергей",
+		"type_id": 5,
+		"last_visit_date": "2021-04-14T00:00:00"
+	},
+	{
+		"id": 18,
+		"login": "anttoonn",
+		"password": "123qwert",
+		"name": "Антон",
+		"type_id": 3,
+		"last_visit_date": "2021-01-17T00:00:00"
+	},
+	{
+		"id": 19,
+		"login": "sasha1997",
+		"password": "19970101",
+		"name": "Александр",
+		"type_id": 2,
+		"last_visit_date": "2021-02-14T00:00:00"
+	},
+	{
+		"id": 20,
+		"login": "nat789",
+		"password": "passworddrowssap",
+		"name": "Наталья",
+		"type_id": 1,
+		"last_visit_date": "2021-07-13T00:00:00"
+	},
+	{
+		"id": 21,
+		"login": "olggaa",
+		"password": "mypass123",
+		"name": "Ольга",
+		"type_id": 4,
+		"last_visit_date": "2021-05-19T00:00:00"
+	},
+	{
+		"id": 22,
+		"login": "max123",
+		"password": "pass789",
+		"name": "Максим",
+		"type_id": 4,
+		"last_visit_date": "2021-04-12T00:00:00"
+	},
+	{
+		"id": 23,
+		"login": "pavel546",
+		"password": "5tgb4rfv",
+		"name": "Павел",
+		"type_id": 5,
+		"last_visit_date": "2021-05-11T00:00:00"
+	},
+	{
+		"id": 24,
+		"login": "mar1983",
+		"password": "123456789",
+		"name": "Мария",
+		"type_id": 3,
+		"last_visit_date": "2021-06-26T00:00:00"
+	},
+	{
+		"id": 25,
+		"login": "oleggelo",
+		"password": "drowssap",
+		"name": "Олег",
+		"type_id": 1,
+		"last_visit_date": "2021-02-23T00:00:00"
+	},
+	{
+		"id": 26,
+		"login": "viktorr",
+		"password": "drowssap123",
+		"name": "Виктор",
+		"type_id": 2,
+		"last_visit_date": "2021-03-21T00:00:00"
+	},
+	{
+		"id": 27,
+		"login": "alina123",
+		"password": "passssap",
+		"name": "Алина",
+		"type_id": 5,
+		"last_visit_date": "2021-06-16T00:00:00"
+	},
+	{
+		"id": 28,
+		"login": "kir1990",
+		"password": "235423723445",
+		"name": "Кирилл",
+		"type_id": 1,
+		"last_visit_date": "2021-05-19T00:00:00"
+	},
+	{
+		"id": 29,
+		"login": "alisa82",
+		"password": "zxcvbn",
+		"name": "Алиса",
+		"type_id": 1,
+		"last_visit_date": "2021-03-11T00:00:00"
+	},
+	{
+		"id": 30,
+		"login": "viktoria9",
+		"password": "poilkjy",
+		"name": "Виктория",
+		"type_id": 3,
+		"last_visit_date": "2021-01-17T00:00:00"
+	},
+	{
+		"id": 31,
+		"login": "nasttsan",
+		"password": "toppass789",
+		"name": "Анастасия",
+		"type_id": 2,
+		"last_visit_date": "2021-02-15T00:00:00"
+	},
+	{
+		"id": 32,
+		"login": "georg4",
+		"password": "gfhjkm",
+		"name": "Георгий",
+		"type_id": 4,
+		"last_visit_date": "2021-05-26T00:00:00"
+	},
+	{
+		"id": 33,
+		"login": "ilya789",
+		"password": "mkjhfg",
+		"name": "Илья",
+		"type_id": 3,
+		"last_visit_date": "2021-04-21T00:00:00"
+	},
+	{
+		"id": 34,
+		"login": "anna3",
+		"password": "trefmpomsd213",
+		"name": "Анна",
+		"type_id": 2,
+		"last_visit_date": "2021-03-25T00:00:00"
+	},
+	{
+		"id": 35,
+		"login": "katyaaytak",
+		"password": "qwerty987",
+		"name": "Екатерина",
+		"type_id": 3,
+		"last_visit_date": "2021-06-15T00:00:00"
+	}
+]
