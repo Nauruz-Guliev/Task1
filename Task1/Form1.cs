@@ -208,8 +208,6 @@ namespace Task1
         {
             var connectionString = "Host=localhost;Username=postgres;Password=nauruz0304;Database=postgres";
 
-            using var con = new NpgsqlConnection(connectionString);
-            con.Open();
         }
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
