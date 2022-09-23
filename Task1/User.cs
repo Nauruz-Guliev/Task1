@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 
-public class Rootobject
+public class UsersRoot
 {
     public User[] Property1 { get; set; }
 }
